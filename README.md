@@ -1,7 +1,7 @@
 # SQL Basic Concepts & Project
 ## Introduction
 
-This repository demonstrated basic concepts about SQL and using SQL to extract and process data. Including primary key, foreign key, relational and non-relational dataset. It also shows basic syntax and understand how to implement data manipulation and filtering. To further extend knowledge and understanding of SQL, the project demonstrated how to work with subqueries, group data, work with null values and tables.
+This repository demonstrated basic concepts about SQL and using SQL to extract and process data. Including primary key, foreign key, relational and non-relational dataset. It also shows basic syntax and understand how to create table. And demonstrated a simulation which use skills to accomplish project.
 
 ## Skills Demonstrated
 
