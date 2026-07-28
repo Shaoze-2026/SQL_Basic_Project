@@ -101,5 +101,46 @@ CREATE TABLE SalesOrderItems (
 );
 ```
 
-			
+<img src="images/Table1.png" width="1200" height="450">
 
+### Task 4
+
+4.	Populating the Database:
+a.	How would you input initial data into the database? Give examples of SQL INSERT statements.
+
+When input initial data into the database there is an example below:
+
+```
+INSERT INTO Products (product_id, product_name, category, unit_price, cost) VALUES (1, ‘Cake’, Foods, 2, 1)
+```
+
+For maintaining the database, I need to keep a database accurate and up to date. 
+I would:
+- Enforce data integrity constraints.
+- Use transactions.
+- Implement triggers.
+- Schedule maintenance jobs.
+- Validate data at the application layer.
+- Maintain audit logs.
+- Optimize with indexes.
+- Perform regular data-quality checks.
+- Ensure robust backups.
+- Apply role-based access control.
+
+### Task 5
+
+5.	Maintaining the Database:
+a.	What measures would you take to ensure the database remains accurate and up to date?
+b.	How would you handle backups and data security?
+
+To ensure backups and data security, I would implement a multi-layered strategy: 
+- Automated full and incremental backups stored in multiple locations.
+- Regular restore testing.
+- Encryption at rest and in transit.
+- Strict role-based access control.
+- Strong authentication.
+- Network isolation.
+- Continuous monitoring.
+- Regular patching.
+
+This ensures the database is both recoverable and secure against threats.
