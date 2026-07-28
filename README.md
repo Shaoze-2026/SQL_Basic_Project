@@ -1,24 +1,24 @@
-# SQL Basic Concepts & Project
-## Introduction
+# 💼SQL Basic Concepts & Project
+## 📌Introduction
 
 This repository demonstrated basic concepts about SQL and using SQL to extract and process data. Including primary key, foreign key, relational and non-relational dataset. It also shows basic syntax and understand how to create table. And demonstrated a simulation which use skills to accomplish project.
 
-## Skills Demonstrated
+## 🗄️Skills Demonstrated
 
-### Database
+### 🗃️Database
 - Primary Key & Secondary Key.
 - The relationship between primary key and foreign key.
 - The types of relationship: one-to-one, one-to-many, many-to-one.
 - Relational and non-relational database.
 - JOIN types: Self-join, Right join, Left join, Full join, Inner join, Cross join.
 
-### Project Simulation
+### 🧾Project Simulation
 
-### Background
+### ⏳Background
 
 Imagine you have been hired by a small retail business that wants to streamline its operations by creating a new database system. This database will be used to manage inventory, sales, and customer information. The business is a small corner shop that sells a range of groceries and domestic products. It might help to picture your local convenience store and think of what they sell. They also have a loyalty program, which you will need to consider when deciding what tables to create. 
 
-### Task 1
+### 🗓️Task 1
 
 1.	Understanding the Business Requirements:
 a.	What kind of data will the database need to store?
@@ -32,7 +32,7 @@ For set the database we could include different tables like Products, Customers,
 
 These tables will be used by different stuffs after creating. The cashier can use these tables for recording. The manager can use these tables for analysing and generate report. The shop holders can use these tables for calculating the profit and make plans.
 
-### Task 2
+### 🗓️Task 2
 
 2.	Designing the Database Schema:
 a.	How would you structure the database tables to efficiently store inventory, sales, and customer information?
@@ -40,7 +40,7 @@ b.	What relationships between tables are necessary (e.g., how sales relate to in
 
 <img src="images/schema.png" width="1200" height="450">
 
-### Task 3
+### 🗓️Task 3
 3.	Implementing the Database:
 a.	What SQL commands would you use to create the database and its tables?
 b.	Provide examples of SQL statements for creating tables and defining relationships between them.
@@ -103,7 +103,7 @@ CREATE TABLE SalesOrderItems (
 
 <img src="images/Table1.png" width="1200" height="450">
 
-### Task 4
+### 🗓️Task 4
 
 4.	Populating the Database:
 a.	How would you input initial data into the database? Give examples of SQL INSERT statements.
@@ -127,7 +127,7 @@ I would:
 - Ensure robust backups.
 - Apply role-based access control.
 
-### Task 5
+### 🗓️Task 5
 
 5.	Maintaining the Database:
 a.	What measures would you take to ensure the database remains accurate and up to date?
