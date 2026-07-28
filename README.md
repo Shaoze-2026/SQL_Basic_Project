@@ -24,3 +24,4 @@ Imagine you have been hired by a small retail business that wants to streamline 
 a.	What kind of data will the database need to store?
 b.	Who will be the users of the database, and what will they need to accomplish?
 
+<img src="images/Schema.png" width="600" height="450">
